@@ -1,4 +1,4 @@
 # 50QPI
-50 Questões de Programação Imperativa
+100 Questões de Programação Imperativa
 
-Resolução referente às 50 questões iniciais da UC Porgramação Imperativa da Universidade do Minho
+Resolução das 100 questões da UC Programação Imperativa ,na Universidade do Minho
